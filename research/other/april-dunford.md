@@ -3,4 +3,8 @@
 **Topic:** Positioning
 
 ## Websites & Newsletters
-**In the Age of AI, You Need a Point of View** (Substack) – newsletter tentang positioning untuk SaaS dan AI companies. [Newsletter](https://aprildunford.substack.com)
+**Source URL:** https://aprildunford.substack.com
+
+### Extracted Main Content
+
+Positioning with April DunfordA newsletter that covers all things Positioning for founders, marketers and product folks. I'm April Dunford - a positioning expert, consultant, author of the books Obviously Awesome and Sales Pitch, and host of the Positioning podcast.
