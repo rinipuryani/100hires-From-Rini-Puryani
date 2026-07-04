@@ -1,11 +1,11 @@
 # LinkedIn Content: April Dunford
 
-**Topik:** Positioning
+**Topic:** Positioning
 
 ## Recent Posts
 
 **Positioning in the Age of AI**
-[Original LinkedIn Post](https://www.linkedin.com/posts/aprildunford_in-todays-newsletter-im-talking-about-activity-7463238631441403904-hHDU?utm_source=chatgpt.com)
+[Original LinkedIn Post](https://www.linkedin.com/posts/aprildunford_in-todays-newsletter-im-talking-about-activity-7463238631441403904-hHDU)
 
 In today's newsletter, I'm talking about Positioning in the Age of AI and some considerations for both native AI and SaaS businesses right now. 
 

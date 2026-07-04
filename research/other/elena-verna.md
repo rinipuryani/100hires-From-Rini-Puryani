@@ -3,4 +3,4 @@
 **Topik:** Growth Strategy
 
 ## Websites & Newsletters
-**Elena Verna Newsletter** – artikel tentang activation, retention, dan growth strategy untuk SaaS. [Elena Verna Newsletter](https://elenaverna.com?utm_source=chatgpt.com)
+**Elena Verna Newsletter** – artikel tentang activation, retention, dan growth strategy untuk SaaS. [Elena Verna Newsletter](https://elenaverna.com)

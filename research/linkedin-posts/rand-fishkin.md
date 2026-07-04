@@ -1,11 +1,11 @@
 # LinkedIn Content: Rand Fishkin
 
-**Topik:** SEO & Organic Growth
+**Topic:** SEO & Organic Growth
 
 ## Recent Posts
 
 **The Hook, Line & Sinker Framework for Viral Content**
-[Original LinkedIn Post](https://www.linkedin.com/posts/randfishkin_new-posthttpslnkdingahhvjc-on-a-framework-activity-6884031703044775936-Uj7q?utm_source=chatgpt.com)
+[Original LinkedIn Post](https://www.linkedin.com/posts/randfishkin_new-posthttpslnkdingahhvjc-on-a-framework-activity-6884031703044775936-Uj7q)
 
 NEW post—https://lnkd.in/gAhHv_JC on a framework I *think* applies to most every piece of "viral" content I've seen over the years.
 
