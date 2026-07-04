@@ -3,66 +3,147 @@
 **Topic:** Content Marketing
 
 ## Websites & Newsletters
-**Source URL:** https://www.exitfive.com/newsletter
+**Source URL:** https://exitfive.com/newsletter/are-marketing-careers-doomed-daves-newsletter/
 
 ### Extracted Main Content
 
-What&#039;s actually working in B2B marketing right now.
 
-I&#039;ve spent the last 15 years in B2B marketing. From PR intern to CMO, and now as the guy who gets to talk to the smartest practitioners in the game every day. I send out what I learn twice a week.
+[Newsletter](https://exitfive.com/newsletter)
+[Job board](https://jobs.exitfive.com/)
+[CMO Council](https://exitfive.com/cmo-council)
+[Podcast](https://exitfive.com/podcast)
+[Drive](https://exitfive.com/drive)
+[Login](https://community.exitfive.com/users/sign_in?post_login_redirect=https%3A%2F%2Fcommunity.exitfive.com%2F)
+[Become a Member](https://exitfive.com/pricing)
+[Newsletter](https://exitfive.com/newsletter)
+[Job board](https://jobs.exitfive.com/)
+[CMO Council](https://exitfive.com/cmo-council)
+[Podcast](https://exitfive.com/podcast)
+[Drive](https://exitfive.com/drive)
+[Login](https://community.exitfive.com/users/sign_in?post_login_redirect=https%3A%2F%2Fcommunity.exitfive.com%2F)
+[Become a Member](https://exitfive.com/pricing)
 
-Real plays from real marketers. Names, numbers, examples you can take straight back to your team.
+## How to future-proof your marketing career
+Two years ago, I was pretty burnt out on marketing. I’d been doing this for over a decade. I’d done [the VP thing](https://exitfive.com/articles/how-to-be-a-top-vp-of-marketing-in-b2b/), built teams, run the playbooks. And I was starting to feel like I’d seen the whole movie in B2B marketing.
+But then AI happened. And it completely relit my candle (as you will). My marketing candle!
+Because suddenly the feedback loop between an idea and execution got incredibly short. I could actually ship things on my own! This is the fun stuff in marketing: you have an idea for an ad, a deck, a landing page, and now you can actually go make the thing yourself, right now instead of a week for a designer and a developer to get to it. It wasn’t just about speed (and eventually the gimmick of making ridiculous photos in Nano Banana wears off). It felt like I had superpowers. I could write the copy, build the slides, mock up the creative ON MY OWN. For the first time in my career, I could be a [full stack marketer](https://exitfive.com/articles/how-to-be-a-better-b2b-marketing-leader/).
+I was talking to [Kieran Flanagan](https://media.exitfive.com/e3t/Ctc/GG+113/d2yD6L04/VWJzTT8TG2z6W7g7vjz844FxTW6G5rDL5LLTTLN6crjpM3qgz0W8wLKSR6lZ3mLW1Jym5R749p5mW3CdsrK4CNmL3W110FbW5Hqs4GW27vHRY4Dkvz2W8WzB7P5HYv6mW3MwzyV8S8GSNW8L_Sxg1CPkGRW2jFcs623VtPbW4SNPLk1r3H_zW8lQ7Sd4l8zy6VV8SJx6T2WVwW93tGKR54CZzSW4DJLFj52cThKN2F2F4FtFHqbW66dX7g1zr5NzN44vW5KtNB-WN2sTg47sr_S3W2YhmBC7RQJN-W41DMgz6FGbxCW2zhHPK8nG1T5M8d8YjyB-khW9gNRlZ5BnvwqW24LQMw6JJ2fhN5qXmqSKQP6yW3zpsG51cKbSYW8-0sy97h5llSW5xqqlC5kJsgpW2V6QpT23KWhxf7YknJb04) about this (he’s SVP of Marketing at HubSpot and a huge AI marketing nerd in a good way) and said the same thing: “I have never been so happy to be a marketer.”
+He’s one of the sharpest people I know when it comes to where marketing is actually going so this felt like a huge win for my confirmation bias. But we also talked about the flip side — because while AI is creating a ton of opportunity, it’s also reshaping what it means to be valuable as a marketer in a company today.
+Here are four things from our conversation worth thinking about if you’re trying to future-proof yourself right now (and [here’s a link to the conversation with Kieran](https://media.exitfive.com/e3t/Ctc/GG+113/d2yD6L04/VWJzTT8TG2z6W7g7vjz844FxTW6G5rDL5LLTTLN6crjpM3qgz0W8wLKSR6lZ3pQW2gpRyQ4lNNb_W7mbXZv6WLfwjN2GSLn6g8VNnW1hv8FC5k4R4jN7CLsqH_4d07W5rSq-v7-vHWyV8WW3S6TCgYgN7l7v5N6xyR5W98S0Yp5-gJHkW84zc8_4rvXPjVFzW_M7zdRl_W3pytHK6_0sJCW3pPw5K3d4HgGW2j8X5m7lFyB3W1m5yYY7w9qzYW3lsVcv660lJtW8l8Jdt5YxfR6W84QykJ5mpg2zW11Gjyc5TJR1HW5VWv0s4xTSMMW85_n0j6ps3sYW64-SxB8kGQs7W8STRNl4mXvkVW2GB1Vh89XwMQW98P2fJ846XMRW72MjfY7cswR4V3WWkW6_mW0RW6hTSxb6p6xn8f59v4pF04) if you want to listen later).
 
-If you&#039;re a B2B marketer who wants to know what&#039;s actually working, this newsletter is for you.
+## 1. “Good enough” is the most dangerous place to be
+Kieran’s core argument is that AI is squeezing the middle of marketing. Not the people at the top of their craft. The people who are good enough at a bunch of things but not exceptional at any one thing.
+Here’s what makes this real.
 
-40,000+ marketers read Dave&#039;s newsletter every week.
+Join 40,000+ marketers getting real campaign examples, practical strategy ideas, and lessons from B2B teams growing from $1M to $1B.
 
-How HubSpot&#8217;s VP of Content delivers 50 Million impressions each month (and tells the measurement story to the CFO)
+## 95% of the B2B buyer journey will start in an LLM assistant instead of Google by 2027.
+Source: Gartner
+That means the entire content-to-clicks engine that most mid-market marketing teams are built around is getting restructured. The team that existed to produce a steady stream of competent blog posts, landing pages, and nurture sequences? That work could now be done by a marketer with good prompting skills and some time blocked.
+Let’s be clear: this isn’t a layoff prediction. It’s a skills prediction. The marketers who were valuable because they could produce reliable B+ work across a bunch of channels are the ones who need to make a move. Because B+ is now the default output of the machine.
+But I guess you could say this has always been true — there’s [no place for mediocre marketing](https://exitfive.com/articles/marketing-is-broken-why-youre-so-busy-and-still-not-getting-anything-done/). Or as [Brendan Hufford](https://media.exitfive.com/e3t/Ctc/GG+113/d2yD6L04/VWJzTT8TG2z6W7g7vjz844FxTW6G5rDL5LLTTLN6crjpM3qgz0W8wLKSR6lZ3lTW8CYLq44BxkNYVK_W8G7wQ6fpW7G0fXr5j7t4SN4WxBqhgxGk0W40tlRs2NlQcsW6rDCyH905L5FW9hT_G83xK873W7CL3g423vBNhV5QcDb8CMRSmW5w7Tl99lTbgLW6cL24P7kS1NxW7sS-Tj3hJjK9W8gSSXG1brpfcVJtTvq4CS_6fW4dBstD4GVV0pW4r1P4S7fcQ9wW413PN33Db2ZzW72tdTw4Q02LFVQXPhY54CKkTW13lh4K3Z49HgVTplLK872CmcW11lGdc71Nz1vW49gj8z5f8dkSW6QPfqK5Wv6HmW99D3L68gv6PTN9h6c4CzJCgFN18KTWtsFNbHW1tP3D66Gwkh-f3hHMJF04) calls it “checkbox marketing.”
 
-Every time I talk to a marketer who&#8217;s building a real content program, video, podcast, creator partnerships, the question that keeps coming up is the same one: &#8220;How do I explain this to my CFO?&#8221; This question comes up not because we don&#8217;t know how to measure content, but because the rest of the organization [&hellip;]
+## 2. Go deep on one thing, not wide on everything
+Kieran’s advice: pick a lane and make sure you are on the outer edges of that lane.
+AI is the ultimate generalist. It can cover ground better than any human. What it can’t do is go deep. So the move right now is the opposite of well-rounded. Figure out the thing you’re genuinely great at and go further on it than feels comfortable. Use AI to handle everything else.
+Early in my career at Drift, I almost made this mistake. I was watching everyone become the “growth marketer” in the 2010s and I thought that’s where the job security was in marketing. I needed to become the growth guy. David Cancel, our CEO, told me the opposite: you have a superpower in creativity and storytelling. Double down on that. That will create the growth (and it did). That conversation shaped my entire career. And the advice is even more true now with AI.
 
-How to Make Your B2B Brand Stand Out in 2026
+## 3. Start building your own AI toolkit
+The marketers who are pulling ahead right now aren’t just using AI. They’re building systems around it that compound over time.
+Kieran is a great example. He has 12 custom GPTs, each one trained on a different prompting methodology or framework. Whenever he finds something that produces strong output, he saves it so he can build on it later. He described it as a prompt swipe file, which is the perfect analogy. Marketers have always kept swipe files of great ads, emails, and landing pages. Now the swipe file is for the prompts and workflows behind your best work.
+But the real unlock is using AI to get better at using AI. One of Kieran’s moves: when he’s using a tool like Genspark to build a presentation, he doesn’t prompt it directly. He goes to Claude or ChatGPT first, feeds it the technical documentation for the tool, and has the AI then craft the prompt. The output is dramatically better because the prompt is written by a model that understands the tool’s capabilities, not by a human guessing at syntax.
+Most marketers open a blank chat, write a vague prompt, get a vague result, and conclude that AI isn’t that useful. The ones building real leverage are treating their AI setup the way a demand gen leader treats their tech stack: something you configure and optimize over time, not something you use out of the box. Marketing today is about being able to create a great brief, where the brief is the prompt.
 
-This newsletter is guest written by Louis Grenier, author of Stand The F*ck Out and upcoming Drive keynote speaker. I spent the better part of May auditing brand marketing for 100 B2B SaaS and AI brands, such as Linear, Notion, Gong, Ramp, or Vanta. Rest assured, I didn&#8217;t just do it for fun. I had a point [&hellip;]
+## 4. Bet on the things AI can’t do
+The marketing leaders I admire most have always been the ones who could do the job, not just manage the people doing the job. It’s fun to see when someone still has their fastball in marketing; not just that they know how to run a performance review cycle. AI is making that possible again. The manager doesn’t just have to manage.
+For the last decade, the path for a great marketer was: get good at marketing, get promoted, stop doing marketing. Kieran and I both lived this. I told him that when I had a team of 30, my whole day was [performance reviews and cross-functional syncs](https://exitfive.com/articles/how-to-lead-a-high-functioning-marketing-org/). He said the same thing. The craft is what gives him energy, not the org chart.
+AI is shrinking teams, and for the right marketer, that’s the whole point. [The future CMO](https://exitfive.com/articles/cmo-secrets-5-lessons-for-marketing-leaders-in-2024/) might run a team of 8 instead of 80 and actually touch the work. Strategy to execution in the same afternoon instead of waiting two sprints for something to ship. That’s the job most of us wanted in the first place.
+Become the marketer who can think and do. Strategic judgment to know what’s worth building and the hands-on ability to build it, with AI as your leverage. The full stack marketer. That’s who companies are going to be fighting over.
+— Dave
+P.S. What are you doing right now to future-proof your marketing career? Hit reply and tell me. I read every response.
+Also, re: “that’s the job most of us wanted in the first place” — maybe not true for everyone. Some are natural born managers, but you’d still want to ship something no?
+Hanging with the Exit Five team in NYC; wish we did this more often #remotelife
+‍
 
-Every B2B marketing channel works. Picking the right one is the real job.
+## More on this topic
+[View All](https://exitfive.com/newsletter/are-marketing-careers-doomed-daves-newsletter/)
+[#244
 
-Everything in B2B marketing works. I&#8217;ve done over 300 hours of interviews with CMOs and VPs in B2B marketing. Spent a decade as a marketing leader myself. I can tell you &#8211; it all works. YouTube, LinkedIn (works &#8211; take it from me), direct mail, webinars, TikTok, email, events, PR, partnerships&#8230;they all can work. Even spending [&hellip;]
 
-Timeless B2B Marketing lessons
+                                    Newsletter
+                                How to survive in a job you don’t love
+                How to survive in a job you don’t love
 
-How to write copy that gets your buyer to act Early in my career, it seemed like everyone was becoming &#8220;the growth marketer&#8221; and I thought that&#8217;s where the job security was. I needed to become the growth guy. The CEO at the time told me the opposite: you have a superpower in creativity and [&hellip;]
+                    Apr 30, 2026
+                                            ·
+                        5 min read](https://exitfive.com/newsletter/how-to-survive-in-a-job-you-dont-love/)
 
-What&#8217;s Working in AEO Right Now
+### How to survive in a job you don’t love
+How to survive in a job you don’t love
+[#242
 
-Does website traffic matter any more? AI ate search. So any time you look something up now, even if you&#8217;re just doing it in the browser, you get an AI summary of the results. Or you might be like me, walking down the street talking to Claude (don&#8217;t judge me). For years, we&#8217;ve used website [&hellip;]
 
-How to Make Your B2B Influencer Marketing Work
+                                    Newsletter
+                                How to be the CMO everyone loves
+                How to be the CMO everyone loves
 
-When a B2B brand play beats demand gen &#8220;Oh we don&#8217;t have the budget for that.&#8221; &#8220;That&#8217;s not relatable, they have a million dollar influencer budget alone!&#8221; Most B2B marketers write off influencer marketing and sponsorships before they ever try it because we think it&#8217;s too expensive, or too hard to measure. This type of [&hellip;]
+                    Apr 23, 2026
+                                            ·
+                        7 min read](https://exitfive.com/newsletter/how-to-be-the-cmo-everyone-loves/)
 
-3 Lessons From Ramp&#8217;s VP Growth & Demand (And Did You Know They Don&#8217;t Have a CMO?)
+### How to be the CMO everyone loves
+How to be the CMO everyone loves
+[#236
 
-Referrals make the world go round. There is nothing better than getting a referral from someone smart and with good taste, whether we&#8217;re talking restaurants or recruiting. But even in podcasting! So a few months ago I had Drew from Ramp&#8217;s data science team on my show. I think he had a blast, and then [&hellip;]
 
-The Narrative On AI Is Shifting
+                                    Newsletter
+                                Don’t make this career mistake
+                Don’t make this career mistake
 
-We polled 540 B2B marketers on how they really feel about AI right now — and the mood is shifting. Here&#039;s what the data showed, from near-universal daily usage to the growing pushback against the hype.
+                    Apr 2, 2026
+                                            ·
+                        3 min read](https://exitfive.com/newsletter/dont-make-this-career-mistake/)
 
-4 lessons from the lady who runs ABM for North America at Snowflake
+### Don’t make this career mistake
+Don’t make this career mistake
+[#213
 
-That lady is Casey Patterson and she is responsible for managing 23 marketers at Snowflake with the mission of driving revenue through account based marketing. I love writing about ABM (and our audience here seems to like it too) because it is the one motion in B2B where marketing and sales actually stop arguing about credit. It&#8217;s [&hellip;]
 
-9 Reasons to Join us in Vermont for Drive 2026 this September
+                                    Newsletter
+                                Don’t sleep on internal marketing…
+                Don't sleep on internal marketing… (Dave's Newsletter)
 
-So I sat down to write my newsletter and had this whole rant about Claude and AI, but then I remembered: I have something better to share with you today! We just unveiled a big part of the agenda for Drive 2026, our big event for Exit Five in Stowe, Vermont this September. Meet the [&hellip;]
+                    Jan 8, 2026
+                                            ·
+                        9 min read](https://exitfive.com/newsletter/dont-sleep-on-internal-marketing-daves-newsletter/)
 
-How To Run a Calm Marketing Organization (aka Why You Should Run Marketing Like The Product Team)
+### Don’t sleep on internal marketing…
+Don't sleep on internal marketing… (Dave's Newsletter)
+What’s actually working in B2B Marketing right now.
 
-I&#8217;ve done over 300 podcast interviews with VPs, CMOs, and marketing leaders over the last four years (weird flex, I know). But there&#8217;s something I&#8217;ve noticed about the ones who are on top of their game as marketing leaders. It&#8217;s not that they&#8217;re more creative or smarter than everyone else (though most of them are). [&hellip;]
+#### Content
+- [Newsletter](https://exitfive.com/newsletter)
+- [Podcast](https://exitfive.com/podcast)
+[Newsletter](https://exitfive.com/newsletter)
+[Podcast](https://exitfive.com/podcast)
 
-Are you sick of AI yet? [Take the survey]
+#### Community
+- [Community](https://exitfive.com/community)
+- [CMO Council](https://exitfive.com/cmo-council)
+- [Drive 2026](https://exitfive.com/drive)
+[Community](https://exitfive.com/community)
+[CMO Council](https://exitfive.com/cmo-council)
+[Drive 2026](https://exitfive.com/drive)
 
-B2B marketers are pushing back on AI — the narrative is shifting. Dave shares what a Fortune 500 CMO told him, and asks: where do you actually stand right now?
+#### Resources
+- [Job board](https://jobs.exitfive.com/)
+- [Login](https://community.exitfive.com/users/sign_in?post_login_redirect=https%3A%2F%2Fcommunity.exitfive.com%2F)
+- [Become a Member](https://exitfive.com/pricing)
+- [Sponsorship](https://hpaiodqi9x8.typeform.com/to/zUH5PjDl)
+[Job board](https://jobs.exitfive.com/)
+[Login](https://community.exitfive.com/users/sign_in?post_login_redirect=https%3A%2F%2Fcommunity.exitfive.com%2F)
+[Become a Member](https://exitfive.com/pricing)
+[Sponsorship](https://hpaiodqi9x8.typeform.com/to/zUH5PjDl)
+© 2026 Exit Five. All rights reserved.
+[Privacy Policy](https://exitfive.com/privacy-policy)
 
-AI is eating the B2B marketing funnel
