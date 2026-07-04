@@ -3,4 +3,18 @@
 **Topik:** Positioning
 
 ## Recent Posts
-**Positioning in the Age of AI** – membahas bagaimana perusahaan SaaS perlu memiliki point of view yang jelas dan memposisikan produk di era AI. [LinkedIn Post](https://www.linkedin.com/posts/aprildunford_in-todays-newsletter-im-talking-about-activity-7463238631441403904-hHDU?utm_source=chatgpt.com)
+
+**Positioning in the Age of AI**
+[Original LinkedIn Post](https://www.linkedin.com/posts/aprildunford_in-todays-newsletter-im-talking-about-activity-7463238631441403904-hHDU?utm_source=chatgpt.com)
+
+In today's newsletter, I'm talking about Positioning in the Age of AI and some considerations for both native AI and SaaS businesses right now. 
+
+1️⃣ A point of view is no longer optional - where the market is changing quickly, customers will look to vendors to give them advice on what sort of a future they should be planning for. Five years ago you might have been able to get away without a point of view on how your part of the market is going to change, today this is critical. 
+
+2️⃣ Position against your true competition (but plan for the future fight) - many of the companies I am working with today understand that the competitive landscape will be different in a couple of years. The key is to ensure you are positioning for the fight you are in right now, while product is planning for ways to win the fight of tomorrow. Letting your positioning get ahead of where your customers are right now is risky.
+
+3️⃣ Hype the heck out of the future (where you can), but connect it with where customers are today - buyers are worried about investing in technology that might become outdated or "legacy" as AI improves. They are also worried about their current investments as the landscape changes. Not only do you need a vision for the future, but you also need to demonstrate to customers the steps you will take with them from where they are today to where they want to be. 
+
+4️⃣ It's never been more important to understand how customers ACTUALLY think - in times of great technology changes, it's easy for us to get lost in the hype. It is very important to find ways to keep your finger on how customers are thinking and behaving. If you don't have programmatic ways of doing that (a customer advisory board, executive customer sponsorships, win/loss analysis), there is no better time to start. 
+
+Full article link in the comments.
